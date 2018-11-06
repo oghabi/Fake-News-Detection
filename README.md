@@ -6,4 +6,4 @@ Social media allows news to be shared in real-time and disseminate much quicker 
 The dataset is the [FNC-1](http://www.fakenewschallenge.org/) and is part of the Fake News Challenge competition.
 
 ## Results
-[Individual Report](https://github.com/oghabi/Fake-News-Detection/blob/master/Individual%20Report.pdf) is an analysis of the dataset and compares the performance of the various implemented machine learning and deep learning models on the FNC-1 test set. The best model achieved 87% accuracy and FNC score of 80.
+[Individual Report](https://github.com/oghabi/Fake-News-Detection/blob/master/Individual%20Report.pdf) is a statistical analysis of the dataset and compares the performance of the various implemented machine learning and deep learning models on the FNC-1 test set. The best model achieved 87% accuracy and FNC score of 80.
